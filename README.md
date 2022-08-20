@@ -14,13 +14,13 @@ https://app.patika.dev
   # 8-aşama: 4 değeri 7'den ve 5'den küçüktür, 1'den ve 3'ten büyüktür, bu yüzden 3'ün sağına yazılır.
   #  son-aşama: 2 değeri 7'den ve 5'den küçüktür, 1'den büyük ama 3'den küçüktür, bu yüzden 3'ün soluna yazılır.
 
-                     7
+                   7
                   / \
                  5   8
                 / \    \
                1   6    9
               / \
              0   3
-                 / \
-                2    4
+                / \
+               2   4
 
